@@ -72,15 +72,15 @@ npm run dev
 
 ## 📁 Estrutura do Projeto
 
-src/
-├── assets/ # Arquivos estáticos
-├── components/ # Componentes reutilizáveis
-├── contexts/ # Contextos do React
-├── layouts/ # Layouts da aplicação
-├── pages/ # Páginas da aplicação
-├── routes/ # Configuração de rotas
-├── services/ # Serviços e integrações
-└── ..
+    src/
+    ├── assets/        # Arquivos estáticos
+    ├── components/    # Componentes reutilizáveis
+    ├── contexts/      # Contextos do React
+    ├── layouts/       # Layouts da aplicação
+    ├── pages/         # Páginas da aplicação
+    ├── routes/        # Configuração de rotas
+    ├── services/      # Serviços e integrações
+    └── ...            # Outros arquivos ou diretórios
 
 ## 🤝 Contribuindo
 
