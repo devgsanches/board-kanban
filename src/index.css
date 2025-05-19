@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+body {
+  height: 100vh;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Montserrat', sans-serif;
+}
